@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Full Stack development**
 - 🌱 I’m currently learning **React** 
 
-- 💬 Ask me about **UI/UX Design, Full stack development**
+- 💬 Ask me about **UI/UX Design, Full stack development, AI**
 
 - ⚡ Fun fact **I am an excellent cook**
 

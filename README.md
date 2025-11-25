@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Koustav+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 <h3 align="center">Expert in Attractive Design & Full steck Development.</h3>
+<br/> <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21haWZubWFyaDViMnh4a3JtZXd1Y3J1aGFyaGlwdjVtNzZkaGN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Coding GIF"> </p>
+
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 

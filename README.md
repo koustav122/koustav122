@@ -356,6 +356,14 @@
     <img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white"/>
 </a>
 
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> Holopin Badges (Hacktoberfest 2025)</h2>
+
+[![An image of @koustav122's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koustav122)](https://holopin.io/@koustav122)
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Koustav_Manna100/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>

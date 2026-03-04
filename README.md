@@ -5,16 +5,13 @@
 
 <img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <a href="https://www.linkedin.com/in/koustav-manna-35133b266//" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **React** 
 
-- 💬 Ask me about **UI/UX Design, Full stack development, AI**
-
-- ⚡ Fun fact **I am an excellent cook**
-
-- 📫 How to reach me **koustavmanna24@gmail.com** 
+- 🔭 Building real-world applications using **Full Stack Development**
+- 🌱 Expanding my expertise in **React.js and modern web technologies**
+- 💬 Passionate about **UI/UX, scalable web apps & AI-driven solutions**
+- ⚡ Beyond coding, I love experimenting in the kitchen 🍳
+- 📫 Let's connect: **koustavmanna24@gmail.com**
 
 
 ## 🌏 **CONNECT WITH ME**
